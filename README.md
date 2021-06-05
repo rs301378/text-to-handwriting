@@ -5,3 +5,6 @@
 Installation Guide: -
 * Type `pip install pywhatkit` in your command prompt.
 * In a few seconds it will install into your system.
+
+For More check: - 
+<a>https://pypi.org/project/pywhatkit/</a>
